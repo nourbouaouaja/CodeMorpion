@@ -20,12 +20,8 @@ pip install pygame
 ## How to Run
 
 ```bash
-# Clone the repository
 git clone https://github.com/nourbouaouaja/CodeMorpion
 cd CodeMorpion
-
-# Ensure the music file is present (AAAA.mp3)
-# Run the game
 python tictactoe_new.py
 ```
 
