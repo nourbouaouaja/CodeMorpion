@@ -31,22 +31,5 @@ python tictactoe_new.py
 
 ---
 
-## Audio
-
-The game loads and loops the background music file `AAAA.mp3`. You can replace it by any `.mp3` file of your choice. The loading code snippet:
-
-```python
-import pygame
-
-# Initialize mixer
-pygame.mixer.init()
-# Load and play menu music in a loop
-pygame.mixer.music.load('AAAA.mp3')
-pygame.mixer.music.play(-1, 0.0)
-```
-
-Replace `'AAAA.mp3'` in `tictactoe_new.py` if you use a different filename or path.
-
----
 
 ## ❤️ Enjoy playing!
