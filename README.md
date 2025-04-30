@@ -4,7 +4,7 @@ A neon-themed, animated Tic-Tac-Toe game built using **Pygame**, featuring backg
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - Python 3.x
 - [`pygame`](https://pypi.org/project/pygame/)
@@ -17,7 +17,7 @@ pip install pygame
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 # Clone the repository
@@ -31,7 +31,7 @@ python tictactoe_new.py
 
 ---
 
-## 🎵 Audio
+## Audio
 
 The game loads and loops the background music file `AAAA.mp3`. You can replace it by any `.mp3` file of your choice. The loading code snippet:
 
